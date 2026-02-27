@@ -23,18 +23,33 @@ The goal is not only to build dashboards, but to:
 
 ## 📂 Projects
 
-### 🔹 Data Jobs Dashboard
+### 🔹 Data Jobs Dashboard v1 – Market Overview
+
 Exploratory dashboard analyzing salary trends and labor demand in data-related roles.
 
 - Data transformation (Power Query)
 - Interactive filtering (Slicers, Drill-through, Bookmarks)
 - KPI-driven layout design
 
-➡️ Located in: `Data_Jobs_V1/`
+➡️ View project: [Data Jobs Dashboard v1](Data_Jobs_V1/)
+
+---
+
+### 🔹 Data Jobs Dashboard v2 – Skills, Compensation & Demand
+
+Analytical dashboard exploring the relationship between technical skills, salary levels, and job demand.
+
+- Exploded skill-level modeling
+- Distinct count logic (DAX)
+- Dynamic metric switching (counts vs percentages)
+- Context-aware aggregation
+
+➡️ View project: [Data Jobs Dashboard v2](Data_Jobs_V2/)
 
 ---
 
 ### 🔹 (Coming Soon) Macroeconomic Dashboard – Argentina
+
 Interactive exploration of economic indicators such as EMAE, sectoral activity, and trends over time.
 
 Planned features:
@@ -43,7 +58,7 @@ Planned features:
 - Sector comparisons
 - Contextual economic interpretation
 
----
+--
 
 ## 🛠 Tools Used
 
