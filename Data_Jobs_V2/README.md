@@ -1,4 +1,4 @@
-⬅️ **[Back to Dashboard Repository](../)**
+⬅️ **[Back to Dashboard Repository](https://github.com/fernando-aquilino/Dashboards_Power_BI)**
 
 # Data Jobs Dashboard v2 – Skills, Compensation & Demand Analysis
 
