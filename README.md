@@ -67,7 +67,7 @@ This project integrates:
 - Structured analytical datasets
 - Interactive Power BI visualization
 
-➡️ View project: [EMAE Economic Shock Analysis](EMAE_Shock_Analysis/)
+➡️ View project: [EMAE Economic Shock Analysis](Emae_analysis/)
 
 ---
 
