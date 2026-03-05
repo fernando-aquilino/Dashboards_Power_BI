@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboards – Economic & Data Analysis
+# 📊 Data Analysis Projects – Economics & Business Intelligence
 
 This repository contains interactive dashboard projects built with Power BI.
 
@@ -48,23 +48,35 @@ Analytical dashboard exploring the relationship between technical skills, salary
 
 ---
 
-### 🔹 (Coming Soon) Macroeconomic Dashboard – Argentina
+### 🔹 Economic Activity Shock Analysis – Argentina
 
-Interactive exploration of economic indicators such as EMAE, sectoral activity, and trends over time.
+Analytical dashboard exploring how different sectors of the Argentine economy respond to major macroeconomic shocks.
 
-Planned features:
-- Time-series analysis
-- Dynamic metric selection
-- Sector comparisons
-- Contextual economic interpretation
+The project combines a **Python data pipeline** with a **Power BI dashboard** built using the EMAE (Monthly Economic Activity Estimator) dataset published by INDEC.
 
---
+Key elements of the analysis include:
+
+- Sectoral evolution of economic activity
+- Impact of major economic shocks (2009 crisis, COVID-19 pandemic, 2022 drought)
+- Peak-to-trough decline by sector
+- Time required for sectors to recover after shocks
+
+This project integrates:
+
+- Python data processing (Pandas)
+- Structured analytical datasets
+- Interactive Power BI visualization
+
+➡️ View project: [EMAE Economic Shock Analysis](EMAE_Shock_Analysis/)
+
+---
 
 ## 🛠 Tools Used
 
 - Power BI Desktop
 - Power Query (ETL)
 - DAX
+- Python (Pandas)
 - Git & GitHub (version control)
 
 ---
