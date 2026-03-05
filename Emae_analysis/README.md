@@ -62,6 +62,17 @@ Method:
 - Track forward until the pre-shock level is reached
 - Count months to recovery
 
+# Data Pipeline
+
+The Python pipeline performs the following steps:
+
+1. Load EMAE sector series
+2. Compute monthly growth rates
+3. Identify crisis windows
+4. Calculate peak-to-trough declines
+5. Compute recovery time for each sector
+6. Export structured datasets for Power BI
+
 ---
 
 # Dashboard
@@ -94,7 +105,7 @@ Peak-to-trough percentage decline.
 
 ### Page 3 — Recovery Time
 
-![Visualization](images/pag2_recuperacion.png)
+![Visualization](images/pag3_recuperacion.png)
 
 Measures how long sectors take to recover after each shock.
 
