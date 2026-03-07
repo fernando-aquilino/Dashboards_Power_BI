@@ -1,54 +1,30 @@
 # 📊 Data Analysis Projects – Economics & Business Intelligence
 
-This repository contains interactive dashboard projects built with Power BI.
+This repository contains applied **data analysis and business intelligence projects** combining economic reasoning with modern data tools.
 
-The focus is on applying data visualization and transformation techniques to explore economic indicators, labor market data, and real-world datasets.
+The projects explore topics such as macroeconomic activity, labor market dynamics, and business sales performance using tools like **Python, SQL, and Power BI**.
 
 ---
 
 ## 🎯 Purpose
 
-As an advanced Economics student, I am developing practical data analysis skills to complement formal economic training.  
+As an advanced Economics student, I am developing practical data analysis skills to complement formal economic training.
 
-This repository serves as a portfolio of applied projects where economic reasoning meets data tools.
+This repository serves as a portfolio of applied projects where **economic reasoning meets data tools**.
 
 The goal is not only to build dashboards, but to:
 
-- Structure data pipelines using Power Query
-- Apply statistical reasoning to real datasets
+- Structure data pipelines using Python and Power Query
+- Perform exploratory and analytical data analysis
 - Design clear and decision-oriented visualizations
 - Translate economic concepts into interactive analytical tools
+- Apply SQL to answer real-world business questions
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 🔹 Data Jobs Dashboard v1 – Market Overview
-
-Exploratory dashboard analyzing salary trends and labor demand in data-related roles.
-
-- Data transformation (Power Query)
-- Interactive filtering (Slicers, Drill-through, Bookmarks)
-- KPI-driven layout design
-
-➡️ View project: [Data Jobs Dashboard v1](Data_Jobs_V1/)
-
----
-
-### 🔹 Data Jobs Dashboard v2 – Skills, Compensation & Demand
-
-Analytical dashboard exploring the relationship between technical skills, salary levels, and job demand.
-
-- Exploded skill-level modeling
-- Distinct count logic (DAX)
-- Dynamic metric switching (counts vs percentages)
-- Context-aware aggregation
-
-➡️ View project: [Data Jobs Dashboard v2](Data_Jobs_V2/)
-
----
-
-### 🔹 Economic Activity Shock Analysis – Argentina
+## 🔹 Economic Activity Shock Analysis – Argentina
 
 Analytical dashboard exploring how different sectors of the Argentine economy respond to major macroeconomic shocks.
 
@@ -71,23 +47,81 @@ This project integrates:
 
 ---
 
-## 🛠 Tools Used
+## 🔹 SQL Sales Analysis – Northwind Dataset
 
+This project analyzes sales performance using the **Northwind relational database** through a series of SQL queries designed to answer common business questions.
+
+The analysis explores customers, product categories, employees, and product-level revenue concentration.
+
+Business questions explored:
+
+- Top customers by revenue
+- Revenue distribution by product category
+- Monthly sales trend
+- Employee sales performance
+- Product revenue concentration (Pareto-style analysis)
+
+SQL techniques demonstrated:
+
+- JOINs across multiple relational tables
+- Aggregations with `SUM`, `COUNT`, and `GROUP BY`
+- Common Table Expressions (CTEs)
+- Window functions (`SUM() OVER`, `RANK()`)
+- Date transformations using `strftime()`
+
+➡️ View project: [SQL Sales Analysis – Northwind](sql-sales-analysis-northwind/)
+
+---
+
+## 🔹 Data Jobs Dashboard v2 – Skills, Compensation & Demand
+
+Analytical dashboard exploring the relationship between technical skills, salary levels, and job demand in data-related roles.
+
+Key analytical components include:
+
+- Exploded skill-level modeling
+- Distinct count logic (DAX)
+- Dynamic metric switching (counts vs percentages)
+- Context-aware aggregation
+
+➡️ View project: [Data Jobs Dashboard v2](Data_Jobs_V2/)
+
+---
+
+## 🔹 Data Jobs Dashboard v1 – Market Overview
+
+Exploratory dashboard analyzing salary trends and labor demand in data-related roles.
+
+Features include:
+
+- Data transformation (Power Query)
+- Interactive filtering (Slicers, Drill-through, Bookmarks)
+- KPI-driven dashboard layout
+
+➡️ View project: [Data Jobs Dashboard v1](Data_Jobs_V1/)
+
+---
+
+# 🛠 Tools Used
+
+- SQL
+- Python (Pandas)
 - Power BI Desktop
 - Power Query (ETL)
 - DAX
-- Python (Pandas)
+- SQLite
 - Git & GitHub (version control)
 
 ---
 
-## 📈 Long-Term Direction
+# 📈 Long-Term Direction
 
-Future dashboards will focus on:
+Future projects will focus on:
 
 - Macroeconomic indicators
 - Public finance metrics
 - Labor market analysis
 - Financial time series
+- Applied economic data analysis
 
-The objective is to bridge academic economics with practical data analysis tools.
+The objective is to **bridge academic economics with practical data analysis tools**.
